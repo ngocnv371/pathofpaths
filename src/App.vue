@@ -5,7 +5,7 @@
         <div class="container">
           <div class="navbar-brand">
             <a class="navbar-item" href="/pathofpaths">
-              Path of Paths
+              <img src="./assets/logo.png" /> <span class="subtitle" style="padding-left: 10px">Path of Paths</span>
             </a>
             <span class="navbar-burger burger" data-target="navbarMenuHeroA">
               <span></span>
